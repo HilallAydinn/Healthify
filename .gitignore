@@ -27,5 +27,3 @@ coverage/
 # Optional npm cache directory
 .npm
 
-# Cloudinary veya hassas config'ler (örnekleme dosyası için)
-.env.example
